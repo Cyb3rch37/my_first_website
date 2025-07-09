@@ -14,3 +14,14 @@ h1 {
     font-size: 36px;
 }
 
+div {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+span {
+    color: #e74c3c;
+    font-weight: bold;
+}
