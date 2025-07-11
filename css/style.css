@@ -4,11 +4,30 @@ body {
     color: #333;
 }
 
+/* This is a class to about.html  */
+
+.title {
+    background-color: #e74c3c;
+    border-radius: 8px;
+    padding: 20px;
+    color: #fff;
+    font-size: 24px;
+    color: #2c3e50;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+/* this is acomment in css */
 p {
     font-size: 16px;
     line-height: 1.5;
 }
 
+.class {
+    color: #3498db;
+    font-style: italic;
+}
 h1 {
     color: #2c3e50;
     font-size: 36px;
@@ -17,11 +36,30 @@ h1 {
 div {
     margin: 20px;
     padding: 10px;
-    border: 1px solid #ccc;
-    background-color: #fff;
+    border: 1px solid #3a333b;
+    background-color: #c879e7;
 }
 
+.image-class {
+    width: 100%;
+    height: auto;
+    
+    border-radius: 8px;
+    
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #67c0d6;
+    border-radius: 8px;
+}
 span {
     color: #e74c3c;
+    font-weight: bold;
+}
+
+.span-class {
+    color: #8e44ad;
     font-weight: bold;
 }
