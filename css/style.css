@@ -6,8 +6,17 @@ body {
 
 /* This is a class to about.html  */
 
+.about-page {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
 .title {
-    background-color: #e74c3c;
+    background-image: url('https://picsum.photos/400/400/');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
     border-radius: 8px;
     padding: 20px;
     color: #fff;
@@ -51,7 +60,7 @@ div {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #67c0d6;
+    background-color: aqua;
     border-radius: 8px;
 }
 span {
@@ -62,4 +71,12 @@ span {
 .span-class {
     color: #8e44ad;
     font-weight: bold;
+    font-size: 18px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 20px;
 }
