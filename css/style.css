@@ -80,3 +80,13 @@ span {
     border-radius: 8px;
     margin-top: 20px;
 }
+
+a {
+    color: #a11ec2;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #8e44ad;
+    text-decoration: underline;
+}
