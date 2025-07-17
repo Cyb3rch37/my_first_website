@@ -31,6 +31,7 @@ body {
 p {
     font-size: 16px;
     line-height: 1.5;
+    background-color: aliceblue;
 }
 
 .class {
@@ -89,4 +90,19 @@ a {
 a:hover {
     color: #8e44ad;
     text-decoration: underline;
+}
+.void {
+    color: #2c3e50;
+    background-color: aquamarine;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.void p {
+    background-color: rgb(230, 139, 74);
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
 }
