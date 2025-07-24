@@ -104,5 +104,18 @@ a:hover {
     background-color: rgb(230, 139, 74);
     padding: 10px;
     border-radius: 5px;
-    color: #fff;
+    color: #fff;;
+}
+
+.box {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    float: left;
+}
+.box1 {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    float: clear;
 }
